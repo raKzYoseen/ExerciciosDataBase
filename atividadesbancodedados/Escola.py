@@ -89,5 +89,3 @@ def criartabelaMatricula():
 # criartabelaDisciplina()
 # criartabelaMatricula()
 
-# TESTES EXERCICIO ------------------------------------------------------------------------------------------------------------
-
